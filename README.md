@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.jpg" alt="SYNAX Studio IDE — 5-Target Hardware Synthesis" width="100%">
+</p>
+
 # 🖥️ SYNAX Studio IDE (`synax-studio`)
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ofaemd-creator/synax-studio/ci.yml?branch=main&style=for-the-badge&label=Cross-Platform_CI)](https://github.com/ofaemd-creator/synax-studio/actions)
